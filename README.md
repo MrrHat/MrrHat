@@ -58,7 +58,7 @@ I also like building spaces, not just apps — places where other people can sho
 ## What I've made
 
 **[CatgirlDownloader — Windows Port](https://github.com/MrrHat/CatGirlDownloader-Win-Port)**
-Started because I wanted one specific Linux app on my Windows machine and it just didn't exist there. So I ported it — then kept going, adding NSFW toggles, tag filtering, Danbooru login, a built-in gallery, and favorites. Video hardware acceleration is still on the to-do list.
+Started because I wanted one specific Linux app on my Windows machine and it just didn't exist there. So I ported it.
 
 **[Share-your-Work](https://github.com/MrrHat/Share-your-Work)**
 A place for indie developers to post their projects and actually get seen — no getting buried in a Reddit thread, no arbitrary posting limits, just a space to share what you built and get real feedback from people who care.
