@@ -79,7 +79,7 @@ A place for indie developers to post their projects and actually get seen — no
 
 Genuinely — if you want to chat, need a hand, or just want to say hi.
 
-<a href="https://discord.gg/8KdVvUjdY6">
+<a href="https://discord.gg/nWDngHg23E">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
